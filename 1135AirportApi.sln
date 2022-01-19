@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1135AirportApi", "1135AirportApi\1135AirportApi.csproj", "{03BEF6D8-8FFE-40A4-86A9-2AD522C959ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelsApi", "ModelsApi\ModelsApi.csproj", "{3145B158-8CF8-45F8-84B8-1E0D8952F680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03BEF6D8-8FFE-40A4-86A9-2AD522C959ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03BEF6D8-8FFE-40A4-86A9-2AD522C959ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03BEF6D8-8FFE-40A4-86A9-2AD522C959ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03BEF6D8-8FFE-40A4-86A9-2AD522C959ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3145B158-8CF8-45F8-84B8-1E0D8952F680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145B158-8CF8-45F8-84B8-1E0D8952F680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145B158-8CF8-45F8-84B8-1E0D8952F680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145B158-8CF8-45F8-84B8-1E0D8952F680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BCDA818-C04E-4038-94E7-CBF8ED284E8A}
+	EndGlobalSection
+EndGlobal
